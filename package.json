@@ -1,0 +1,14 @@
+{
+    "name": "grpc_crash",
+    "version": "1.0.0",
+    "description": "description",
+    "authors": "author",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+
+}
